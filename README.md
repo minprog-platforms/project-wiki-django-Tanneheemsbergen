@@ -1,8 +1,14 @@
 # Application Name
 
-TODO: Describe your application here.
+4 extra html files nodig:
+- errorpage
+- newpage
+- entrypage
+- searchpage
+
+In de views.py file zijn definities nodig voor de entry, search en newpage. Voor de newpage is een class nodig, zoals uitgelegd in het laatste deel van het college. 
 
 
 ## Getting Started
 
-TODO: Describe steps to install requirements and get the application running.
+<IMG_4480.jpg>
